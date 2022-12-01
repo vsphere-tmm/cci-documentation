@@ -10,5 +10,5 @@ regions, and to configure user access.
 
 *Getting Started*
 * Enable vSphere+: [Getting Started with vSphere+](https://docs.vmware.com/en/VMware-vSphere+/services/vsphereplus-getting-started/GUID-7FE4A507-B528-4359-A4B0-943C5E4E084D.html)
-* Enable Developer Experience: [Need Doc](https://google.com)
+* Enable Developer Experience in vSphere+: [Using and Managing vSphere+](vsphereplus-using-managing_v2.pdf)
 * Configure and Use CCI: [Configuring and using Service Broker Cloud Consumption Interface](Configuring_and_Using_the_Service_Broker_Cloud_Consumption_Interface.pdf)
